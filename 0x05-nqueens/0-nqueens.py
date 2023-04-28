@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-'''N Queens Challenge'''
+'''N Queens Challenge
+Solving the challenge and leaving a complete solution'''
 
 import sys
 
